@@ -1,0 +1,25 @@
+
+body {
+		margin:10%
+	}
+
+.box { 
+		position: relative;
+		display: inline-block;
+		width: 15%;
+		margin: 2%;
+		padding:2%;
+		border: 3px solid #242424;
+		border-radius:10px;
+		bottom: 50%;
+		}
+
+.krug {
+		position: absolute;
+		left: 32%;		
+		bottom: 85%;
+     	width: 75px;
+      	height: 75px;
+      	border-radius: 50px;
+      	background: black;
+}
